@@ -1,0 +1,17 @@
+{
+  "name": "habit-bets-reactnative",
+  "displayName": "habit-bets-reactnative",
+  "expo": {
+    "name": "habit-bets-reactnative",
+    "slug": "habit-bets-reactnative",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
